@@ -1,0 +1,80 @@
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.exe
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.deps.json
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.runtimeconfig.json
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.dll
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.pdb
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.Form1.resources
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.csproj.GenerateResource.cache
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.AssemblyInfoInputs.cache
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.AssemblyInfo.cs
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.csproj.CoreCompileInputs.cache
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.dll
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\refint\Анализатор.dll
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.pdb
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.genruntimeconfig.cache
+C:\Users\klows\Desktop\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\ref\Анализатор.dll
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.exe
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.deps.json
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.runtimeconfig.json
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.dll
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.pdb
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.Form1.resources
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.csproj.GenerateResource.cache
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.AssemblyInfoInputs.cache
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.AssemblyInfo.cs
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.csproj.CoreCompileInputs.cache
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.dll
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\refint\Анализатор.dll
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.pdb
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.genruntimeconfig.cache
+C:\Users\student\pin-122\TAandFL\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\ref\Анализатор.dll
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.exe
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.deps.json
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.runtimeconfig.json
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.dll
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.pdb
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.Form1.resources
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.csproj.GenerateResource.cache
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.AssemblyInfoInputs.cache
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.AssemblyInfo.cs
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.csproj.CoreCompileInputs.cache
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.dll
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\refint\Анализатор.dll
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.pdb
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.genruntimeconfig.cache
+C:\Users\student\Pin-122\Zagrebin\курсач\Анализатор\Анализатор\obj\Debug\net8.0-windows\ref\Анализатор.dll
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.Form1.resources
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.csproj.GenerateResource.cache
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.AssemblyInfoInputs.cache
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.AssemblyInfo.cs
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.csproj.CoreCompileInputs.cache
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.dll
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\refint\Анализатор.dll
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.pdb
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.exe
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.deps.json
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.runtimeconfig.json
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.dll
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.pdb
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.genruntimeconfig.cache
+C:\Users\klows\Desktop\курсач 18.04.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\ref\Анализатор.dll
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.exe
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.deps.json
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.runtimeconfig.json
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.dll
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\bin\Debug\net8.0-windows\Анализатор.pdb
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.Form1.resources
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.csproj.GenerateResource.cache
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.AssemblyInfoInputs.cache
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.AssemblyInfo.cs
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.csproj.CoreCompileInputs.cache
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.dll
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\refint\Анализатор.dll
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.pdb
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\Анализатор.genruntimeconfig.cache
+C:\Users\klows\Desktop\курсач 30.05.24\Анализатор\Анализатор\obj\Debug\net8.0-windows\ref\Анализатор.dll

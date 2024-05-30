@@ -1,0 +1,19 @@
+Dim x As Integer
+Dim y As Integer
+Dim z As Integer
+Select Case x
+    Case 0
+        Select Case y
+            Case 0
+                Select Case z
+                    Case 0
+                        x = 10
+                    Case Else
+                        x = 100
+                End Select
+            Case Else
+                x = 1000 / 0
+        End Select
+    Case Else
+        x = 10000
+End Selectect

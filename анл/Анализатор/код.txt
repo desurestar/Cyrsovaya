@@ -1,0 +1,10 @@
+Dim a As Integer
+a = 8
+Select Case x
+    Case 0
+    a = a + 6 * (5 + a)
+    Case 2 To 6
+    a = 9
+    Case Else
+    a = 0
+End Select
